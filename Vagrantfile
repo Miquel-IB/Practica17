@@ -1,3 +1,4 @@
+#
 # Creamos el fichero vagrantfile con la version de ubuntu
 Vagrant.configure("2") do |config|
   config.vm.define :nodo1 do |nodo1|
